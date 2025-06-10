@@ -13,7 +13,7 @@ export default function Navbar() {
                         <li className="nav-item active">
                             <a className="navq" href="#"><strong>Login</strong> </a>
                         </li>
-        <li></li>
+                        <span>   d </span>
                         <li className="nav-item">
                             <a className="navq" href="#"><strong>trending</strong></a>
                         </li>
