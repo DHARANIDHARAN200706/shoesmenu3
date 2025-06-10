@@ -11,7 +11,7 @@ export default function Navbar() {
                 <div className="collapse navbar-collapse" id="navbarNav">
                  <pre>   <ul className="navbar-nav ml-auto">
                         <li className="nav-item active">
-                            <a className="navq" href="#"><strong>Login</strong> </a>
+                            <a className="navq" href="#"><strong>Loginj</strong> </a>
                         </li>
                     hf
                         <li className="nav-item">
