@@ -10,23 +10,25 @@ export default function Navbar() {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNav">
                  <pre>   <ul className="navbar-nav ml-auto">
-                        <li className="nav-item active">
-                            <a className="navq" href="#"><strong>Loginj</strong> </a>
+                        <li className="nav-item">
+                            <a className="navq" href="https://hyuwqeoiuryfpihyfroiu.neocities.org/jaishow/mou"><strong>order</strong></a>
                         </li>
+                       
                     hf
                         <li className="nav-item">
-                            <a className="navq" href="#"><strong>trending</strong></a>
+                            <a className="navq" href="https://hyuwqeoiuryfpihyfroiu.neocities.org/jaishow/mou"><strong>trending</strong></a>
                         </li>
         <br>
                           <li className="nav-item">
-                            <a className="navq" href="#"><strong>home</strong></a>
+                            <a className="navq" href="https://hyuwqeoiuryfpihyfroiu.neocities.org/jaishow/home"><strong>home</strong></a>
                         </li>
                          <li className="nav-item">
-                            <a className="navq" href="#"><strong>shop</strong></a>
+                            <a className="navq" href="https://hyuwqeoiuryfpihyfroiu.neocities.org/jaishow/product"><strong>shop</strong></a>
                         </li>
-                          <li className="nav-item">
-                            <a className="navq" href="#"><strong>order</strong></a>
+                         <li className="nav-item active">
+                            <a className="navq" href="https://hyuwqeoiuryfpihyfroiu.neocities.org/jaishow/cont"><strong>Contact</strong> </a>
                         </li>
+                        
         </pre>
                     </ul>
                 </div>
