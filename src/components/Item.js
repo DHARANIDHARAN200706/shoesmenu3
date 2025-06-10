@@ -63,7 +63,7 @@ export default function Item({ item }) {
           <h1 className="mt-2">Price: {item.price[0][varient] * quantity}-/Rs</h1>
         </div>
         <div className="w-100 car m-1">
-     <a href="order.html">     <button className="mt-1">Add To Cart</button></a>
+     <a href="https://hyuwqeoiuryfpihyfroiu.neocities.org/jaishow/mou">     <button className="mt-1">Add To Cart</button></a>
         </div>
       </div>
 
