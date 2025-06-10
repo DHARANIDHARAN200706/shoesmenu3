@@ -29,8 +29,9 @@ export default function Navbar() {
                             <a className="navq" href="https://hyuwqeoiuryfpihyfroiu.neocities.org/jaishow/cont"><strong>Contact</strong> </a>
                         </li>
                         
-        </pre>
+        
                     </ul>
+                        </pre>
                 </div>
             </nav>
         </div>
