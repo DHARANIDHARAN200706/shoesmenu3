@@ -16,6 +16,15 @@ export default function Navbar() {
                         <li className="nav-item">
                             <a className="navq" href="#"><strong>trending</strong></a>
                         </li>
+                          <li className="nav-item">
+                            <a className="navq" href="#"><strong>home</strong></a>
+                        </li>
+                         <li className="nav-item">
+                            <a className="navq" href="#"><strong>shop</strong></a>
+                        </li>
+                          <li className="nav-item">
+                            <a className="navq" href="#"><strong>order</strong></a>
+                        </li>
                        
                     </ul>
                 </div>
