@@ -17,6 +17,7 @@ export default function Navbar() {
                         <li className="nav-item">
                             <a className="navq" href="#"><strong>trending</strong></a>
                         </li>
+        <br>
                           <li className="nav-item">
                             <a className="navq" href="#"><strong>home</strong></a>
                         </li>
