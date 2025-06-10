@@ -9,11 +9,11 @@ export default function Navbar() {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNav">
-                    <ul className="navbar-nav ml-auto">
+                 <pre>   <ul className="navbar-nav ml-auto">
                         <li className="nav-item active">
                             <a className="navq" href="#"><strong>Login</strong> </a>
                         </li>
-                        <span style="color:white">   d </span>
+                    hf
                         <li className="nav-item">
                             <a className="navq" href="#"><strong>trending</strong></a>
                         </li>
@@ -27,7 +27,7 @@ export default function Navbar() {
                           <li className="nav-item">
                             <a className="navq" href="#"><strong>order</strong></a>
                         </li>
-                       
+        </pre>
                     </ul>
                 </div>
             </nav>
