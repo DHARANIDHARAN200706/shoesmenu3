@@ -14,7 +14,7 @@ export default function Navbar() {
                             <a className="navq" href="#"><strong>Login</strong> </a>
                         </li>
                         <li className="nav-item">
-                            <a className="navq" href="#"><strong>Cart</strong></a>
+                            <a className="navq" href="#"><strong>trending</strong></a>
                         </li>
                        
                     </ul>
