@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Modal } from 'react-bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css'; // ✅ Important
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Item({ item }) {
   const [quantity, setQuantity] = useState(1);
