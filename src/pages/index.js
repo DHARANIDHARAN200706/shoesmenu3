@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ProductList from '../components/ProductList.js';
 import Cart from '../components/Cart.js';
-import './App.css'; // Importing external CSS
+import './App.css'; 
 
 function App() {
   const [visitCount, setVisitCount] = useState(0);
