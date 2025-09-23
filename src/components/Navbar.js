@@ -62,9 +62,20 @@ export default function Navbar() {
                 Contact
               </a>
             </li>
+            <li className="nav-item" style={navItemStyle}>
+              <a className="navq" href="https://shoerecommendation-1.vercel.app/" style={linkStyle}>
+                ai suggestion
+              </a>
+            </li>
+             <li className="nav-item" style={navItemStyle}>
+              <a className="navq" href="https://shoe-dat.vercel.app/" style={linkStyle}>
+                add shoe
+              </a>
+            </li>
           </ul>
         </div>
       </nav>
     </div>
   );
 }
+
