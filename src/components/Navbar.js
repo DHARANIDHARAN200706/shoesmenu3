@@ -54,7 +54,7 @@ export default function Navbar() {
             </li>
             <li className="nav-item" style={navItemStyle}>
               <a className="navq" href="https://hyuwqeoiuryfpihyfroiu.neocities.org/jaishow/product" style={linkStyle}>
-                Shop
+                Shops
               </a>
             </li>
             <li className="nav-item active" style={navItemStyle}>
@@ -78,4 +78,5 @@ export default function Navbar() {
     </div>
   );
 }
+
 
